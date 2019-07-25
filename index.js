@@ -2,7 +2,7 @@
 // Write your solution in this file!
 var customerName = 'bob';
 function upperCaseCustomerName (){
-    customerName = 'CUSTOMERNAME'
+    customerName = 'BOB'
 }
 function bestCustomer (){
     bestCustomer = 'not bob' ;
