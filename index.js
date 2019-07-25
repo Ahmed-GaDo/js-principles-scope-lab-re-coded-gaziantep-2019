@@ -7,7 +7,7 @@ function upperCaseCustomerName (){
 function setbestCustomer (){
     let bestCustomer = 'not bob' ;
 }
-console.log(bestCustomer);
+
 function overwriteBestCustomer(){
     bestCustomer = 'maybe bob'
 }
